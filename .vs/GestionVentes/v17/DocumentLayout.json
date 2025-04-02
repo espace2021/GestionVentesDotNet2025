@@ -3,51 +3,8 @@
   "WorkspaceRootPath": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\models\\ligneorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\models\\ligneorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Ventes/True/SqlTable/dbo.LigneOrders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Migrations\\20250322090915_MigrationVentes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionVentes\\Migrations\\20250322090915_MigrationVentes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\helpers\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\helpers\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\controllers\\chatligneorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\controllers\\chatligneorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\models\\intentanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\models\\intentanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\gestionventes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\gestionventes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\views\\chatligneorders\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\views\\chatligneorders\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\models\\ollamarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\models\\ollamarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\models\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\models\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|d:\\sandra\\dotnet\\projet\\gestionventes\\gestionventes\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE925BD-B3E9-44BF-B00C-6E6A1092213A}|GestionVentes\\GestionVentes.csproj|solutionrelative:gestionventes\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,159 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.LigneOrders [Donn\u00E9es]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Ventes/True/SqlTable/dbo.LigneOrders.sql",
-              "ToolTip": "dbo.LigneOrders [Donn\u00E9es]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-22T09:09:42.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250322090915_MigrationVentes1.cs",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Migrations\\20250322090915_MigrationVentes1.cs",
-              "RelativeDocumentMoniker": "GestionVentes\\Migrations\\20250322090915_MigrationVentes1.cs",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Migrations\\20250322090915_MigrationVentes1.cs",
-              "RelativeToolTip": "GestionVentes\\Migrations\\20250322090915_MigrationVentes1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T09:09:15.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LigneOrder.cs",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Models\\LigneOrder.cs",
-              "RelativeDocumentMoniker": "GestionVentes\\Models\\LigneOrder.cs",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Models\\LigneOrder.cs",
-              "RelativeToolTip": "GestionVentes\\Models\\LigneOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Title": "PredictionController.cs",
+              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Controllers\\PredictionController.cs",
+              "RelativeDocumentMoniker": "GestionVentes\\Controllers\\PredictionController.cs",
+              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Controllers\\PredictionController.cs",
+              "RelativeToolTip": "GestionVentes\\Controllers\\PredictionController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T09:08:07.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Program.cs",
-              "RelativeDocumentMoniker": "GestionVentes\\Program.cs",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Program.cs",
-              "RelativeToolTip": "GestionVentes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:39:03.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GestionVentes\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GestionVentes\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBcAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T08:32:41.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChatLigneOrdersController.cs",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Controllers\\ChatLigneOrdersController.cs",
-              "RelativeDocumentMoniker": "GestionVentes\\Controllers\\ChatLigneOrdersController.cs",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Controllers\\ChatLigneOrdersController.cs",
-              "RelativeToolTip": "GestionVentes\\Controllers\\ChatLigneOrdersController.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAqwJUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:24:46.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Chat.cshtml",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Views\\ChatLigneOrders\\Chat.cshtml",
-              "RelativeDocumentMoniker": "GestionVentes\\Views\\ChatLigneOrders\\Chat.cshtml",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Views\\ChatLigneOrders\\Chat.cshtml",
-              "RelativeToolTip": "GestionVentes\\Views\\ChatLigneOrders\\Chat.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T08:21:48.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ChatService.cs",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Helpers\\ChatService.cs",
-              "RelativeDocumentMoniker": "GestionVentes\\Helpers\\ChatService.cs",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Helpers\\ChatService.cs",
-              "RelativeToolTip": "GestionVentes\\Helpers\\ChatService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAewB8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:20:11.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GestionVentes",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\GestionVentes.csproj",
-              "RelativeDocumentMoniker": "GestionVentes\\GestionVentes.csproj",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\GestionVentes.csproj",
-              "RelativeToolTip": "GestionVentes\\GestionVentes.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-22T08:19:51.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IntentAnalysisResult.cs",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Models\\IntentAnalysisResult.cs",
-              "RelativeDocumentMoniker": "GestionVentes\\Models\\IntentAnalysisResult.cs",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Models\\IntentAnalysisResult.cs",
-              "RelativeToolTip": "GestionVentes\\Models\\IntentAnalysisResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:19:12.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OllamaRequest.cs",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Models\\OllamaRequest.cs",
-              "RelativeDocumentMoniker": "GestionVentes\\Models\\OllamaRequest.cs",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Models\\OllamaRequest.cs",
-              "RelativeToolTip": "GestionVentes\\Models\\OllamaRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:17:30.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ChatViewModel.cs",
-              "DocumentMoniker": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Models\\ChatViewModel.cs",
-              "RelativeDocumentMoniker": "GestionVentes\\Models\\ChatViewModel.cs",
-              "ToolTip": "D:\\Sandra\\DotNet\\Projet\\GestionVentes\\GestionVentes\\Models\\ChatViewModel.cs",
-              "RelativeToolTip": "GestionVentes\\Models\\ChatViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:16:42.647Z",
+              "WhenOpened": "2025-04-02T07:01:56.984Z",
               "EditorCaption": ""
             }
           ]

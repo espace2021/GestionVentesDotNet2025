@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Interroger GPT";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Formulaire pour saisir le prompt -->
+<form method="post" action="/OpenAI/AskGPT">
+    <div class="form-group">
+        <label for="prompt">Saisissez votre question à GPT :</label>
+        <textarea id="prompt" name="prompt" class="form-control" rows="4" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Poser la question</button>
+</form>
+
+@if (ViewBag.Response != null)
+{
+    <h3>Réponse de GPT :</h3>
+    <pre>@ViewBag.Response</pre> <!-- Affiche la réponse de GPT -->
+}

@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Page de Prédiction";
+}
+<h2>Prédiction de la Quantité de Commande</h2>
+<form method="post" action="/Prediction/Predict">
+    <label for="productId">Sélectionnez un produit :</label>
+    @{
+        var products = (ViewData["Products"] as IEnumerable<GestionVentes.Models.LigneOrder>)?.Select(l => l.Product).Distinct().ToList();
+    }
+    <select name="productId" id="productId">
+        <option value="">-- Choisissez un produit --</option>
+        @if (products != null && products.Any())
+        {
+            @foreach (var product in products)
+            {
+                <option value="@product.ProductID">@product.ProductName</option>
+            }
+        }
+        else
+        {
+            <option disabled>Aucun produit disponible</option>
+        }
+    </select>
+
+    <button type="submit" class="btn btn-info">Prédire</button>
+</form>
+@if (ViewBag.PredictedOrderQty != null)
+{
+    <div>
+        <h3>Pour le produit : @ViewBag.ProductName Quantité prédite : @ViewBag.PredictedOrderQty </h3>
+    </div>
+}

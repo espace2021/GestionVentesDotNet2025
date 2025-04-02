@@ -1,5 +1,4 @@
-﻿
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using GestionVentes.Helpers;
 using GestionVentes.Models;
 using System.Text;
@@ -17,7 +16,7 @@ namespace GestionVentes.Controllers
 
 
 
-        public ChatLigneOrdersController  (IConfiguration configuration, HttpClient httpClient)
+        public ChatLigneOrdersController(IConfiguration configuration, HttpClient httpClient)
         {
             // Injecter IConfiguration dans le constructeur du contrôleur
             _chatService = new ChatService(configuration);  // Passer IConfiguration à ChatService
@@ -150,7 +149,7 @@ namespace GestionVentes.Controllers
             return response;
         }
 
-       
+
 
     }
 }
